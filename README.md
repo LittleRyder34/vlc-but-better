@@ -1,4 +1,5 @@
-(this is a fork, I am a solo dev, imagine all instances of "We" say "I") 
+(this is a fork, I am a solo dev, imagine all instances of "We" say "I"
+I am too lazy to replace them myself, if one of yall want to please do) 
 
 # VLC media player
 
