@@ -1,3 +1,5 @@
+(this is a fork, I am a solo dev, imagine all instances of "We" say "I") 
+
 # VLC media player
 
 **VLC** is a libre and open source **media player** and **multimedia engine**,
@@ -68,6 +70,7 @@ We need help with the following tasks:
 - Design
 - Support
 - Community management and communication.
+
 
 Please contribute :)
 
