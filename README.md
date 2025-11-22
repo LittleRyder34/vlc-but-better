@@ -41,7 +41,7 @@ VLC is available for the following platforms:
 
 [Windows]: https://www.videolan.org/vlc/download-windows.html
 [macOS]: https://www.videolan.org/vlc/download-macosx.html
-[GNU/Linux]: https://www.videolan.org/vlc/#download
+[Linux]: https://www.videolan.org/vlc/#download
 [BSD]: https://www.videolan.org/vlc/download-freebsd.html
 [Android]: https://www.videolan.org/vlc/download-android.html
 [iOS]: https://www.videolan.org/vlc/download-ios.html
