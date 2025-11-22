@@ -1,6 +1,3 @@
-(this is a fork, I am a solo dev, imagine all instances of "We" say "I".
-I am too lazy to replace them myself, if one of yall want to please do) 
-
 # VLC media player
 
 **VLC** is a libre and open source **media player** and **multimedia engine**,
@@ -64,7 +61,7 @@ plenty of C++, Obj-C, asm and Rust.
 Other repositories linked to vlc are done in languages including Kotlin/Java [(Android)](https://code.videolan.org/videolan/vlc-android/),
 Swift [(iOS)](https://code.videolan.org/videolan/vlc-ios/), and C# [(libVLCSharp)](https://code.videolan.org/videolan/libvlcsharp/).
 
-We need help with the following tasks:
+I need help with the following tasks:
 - Coding
 - Packaging for Windows, macOS and Linux distributions
 - Technical writing for the documentation
@@ -74,10 +71,6 @@ We need help with the following tasks:
 
 
 Please contribute :)
-
-We are on IRC. You can find us on the **#videolan** channel on *[Libera.chat]*.
-
-[Libera.chat]: https://libera.chat
 
 ## Contributions
 
