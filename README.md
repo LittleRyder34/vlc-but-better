@@ -1,3 +1,5 @@
+**Note: I am a solo dev who has forked VLC. There may be errors in the README, which has been written from the perspective of a team.**
+
 # VLC media player
 
 **VLC** is a libre and open source **media player** and **multimedia engine**,
